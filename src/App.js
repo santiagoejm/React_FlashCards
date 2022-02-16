@@ -43,7 +43,8 @@ function App() {
   return (
     <div className="App">
       <h3 className="header">
-        Keep "Clicked" on the card to reveal the correct answer
+        Switch the flashcard by leaving the mouse "Clicked" to see the right
+        answer
       </h3>
       {item.map((item) => {
         return <Card item={item} key={item.id} />;
