@@ -25,3 +25,7 @@ Asynchronous `fetch(`) function was used to make calls to the API, along `useEff
 - run the app:
   `npm start`
 - you are good to go.
+
+## Live Demo
+
+Just Click on the next Link: [FlashCards](https://santiagoejm.github.io/React_FlashCards/)
